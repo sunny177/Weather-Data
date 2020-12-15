@@ -1,6 +1,6 @@
 # Weather_data
 
-Used Databricks notebook to solve the assignment - output, assumptions, code, unit testing provided in the notebook.
+Used Databricks notebook to solve the assignment - output, assumptions, code, unit testing provided in the notebook - Weather_Data Assignment.ipynb
 
 Libraries used - pyarrow and Pandas
 
